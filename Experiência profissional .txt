@@ -1,0 +1,70 @@
+Analista telecom 
+Dez 2016 a Nov 2017 
+
+• Responsável pela gestão e aprovação de solicitações de acesso aos sites da Telefônica em todo o território nacional, garantindo suporte logístico e operacional para atividades noturnas de implantação de equipamentos DWDM.
+• Coordenação de processos administrativos e emissão de notas fiscais para movimentação de bens ativos, assegurando conformidade com as normas internas e regulatórias. 
+
+Analista de projetos 
+2017 a maio 2020 
+Gestão de Projetos de Ativação de Circuitos e Integração de Equipamentos DWDM
+• Liderança na gestão de projetos de ativação de circuitos DWDM em todo o território nacional, assegurando a entrega de circuitos ativos e operacionais para os clientes.
+• Delegação estratégica de atividades para fornecedores e regionais Vivo, garantindo a execução eficiente das tarefas em campo.
+• Supervisão de equipes de teste para validação das atividades realizadas em campo, promovendo qualidade e aderência aos padrões estabelecidos.
+• Monitoramento de Ordens de Execução (OE) em parceria com O&M, com foco na conclusão e conformidade técnica.
+• Facilitação e alinhamento entre diversas áreas correlatas (Planejamento, Engenharia, Backbone IP, Backbone Metro, N1, O&M) para assegurar o cumprimento de prioridades do cliente e SLAs críticos.
+• Escalonamento e resolução de entraves operacionais, assegurando a entrega dentro dos prazos estabelecidos.
+• Gestão e acompanhamento de fluxos de demandas e rollout, tomando ações corretivas para garantir conformidade com os requisitos do cliente.
+• Condução de reuniões diárias com fornecedores, engenharia e equipes internas para alinhamento estratégico e resolução de pendências.
+• Report diário sobre o andamento das implantações, assegurando clareza e transparência para todas as partes interessadas.
+• Suporte na análise e validação de circuitos para entrega de DCI e aceite final, garantindo a qualidade da entrega.
+• Administração de acessos aos sites e suporte às equipes para viabilizar a execução de atividades de campo (gaus chave cadastro)
+(CSI)
+• Gestão de acessos lógicos para colaboradores, parceiros e fornecedores em plataformas internas, assegurando a segurança e conformidade no fluxo de dados.
+
+Competências Técnicas
+• Domínio de aplicações estratégicas: SSI Redes, SMTX, Combo, Sigitm, Gaus, Science, SCI, Remedy e IDM.
+
+Analista de projetos e processos 
+Jan 2021 a jun 2022 
+Projeto de Gestão de Mudança: Novo Fluxo de Expediente na Área de Comissionamento
+• Identificado deficiências no fluxo de exceções de pagamento para parceiros indiretos, que antes era descentralizado e ineficiente, com processos variados e ferramentas departamentais limitadas.
+• Mapeamento completo das necessidades, projetando e implementando um fluxo padronizado por meio do Portal de Assinaturas, ferramenta oficial da Vivo.
+• Gestão do escopo, custo, cronograma e recursos, engajando equipes multidisciplinares e stakeholders.
+• Resultado: Novo fluxo implantado em 4 meses, com destaque em reunião de diretoria devido à eficiência alcançada e à integração de assinaturas digitais no processo.
+Projeto: Portal do Comissionamento
+• Líder do projeto de desenvolvimento do novo portal centralizado para solicitações de canais indiretos, regionais, BPO e área de comissionamento.
+• Realizado mapeamento de necessidades, análise de custo e cronograma, formando uma squad com times internos e fornecedores para desenvolvimento, gestão e execução das cerimonias ageis do projetos garantindo transparência em todas as etapas e sucesso na entrega.
+• Cronograma do projeto com durabilidade de 6 meses. Entrega concluída com sucesso em julho de 2022, com comunicação contínua aos usuários finais, treinamento pós-entrega e Bsim.
+Projeto: Novo Comissionamento (SAP Commissions)
+• Conduzi o mapeamento de dores e alinhamento de soluções com stakeholders, garantindo engajamento de regionais e canais.
+• Realizei workshops, treinamentos, desenvolvimento de manuais e vídeos, além de criar uma comunicação direta via e-mail para suporte e dúvidas.
+• Resultado: Aumento da precisão no comissionamento, maior eficiência operacional e integração digital da base de parceiros.
+Gestão Operacional e Processos de Comissionamento
+• Atuei como ponto focal para demandas de operação e áreas comerciais, liderando iniciativas de melhoria contínua nos processos fim a fim de comissionamento.
+• Facilitei a resolução ágil de falhas durante a implementação de novos processos, com salas de warroom para alinhamentos rápidos e estratégicos.
+• Projetei e acompanhei KPIs para monitorar a adoção de novas ferramentas e processos, estimulando o uso eficiente e promovendo mudanças sustentáveis na operação.
+
+GP
+Jun de 2022 a atual 
+Gestão de Projetos e Metodologia Ágil – Scrum Master
+Scrum Master – Squad de Projetos Comerciais B2B
+• Líder Scrum Master em projetos voltados à área comercial B2B, entregando soluções que agregam valor ao dia a dia dos Gestores de Negócios (GN), gestores e equipes comerciais.
+• Facilitação de todas as cerimônias Scrum: Daily Stand-ups, Sprint Planning, Sprint Reviews, Retrospectives e refinamento do backlog, assegurando priorização de tarefas, alinhamento do time e foco nos objetivos de negócio.
+• Remoção de impedimentos, gestão de backlog priorizado e comprometimento com entregas dentro dos prazos e orçamentos acordados.
+• Resultados efetivos alcançados em 2022, com entregas que impactaram positivamente as operações comerciais.
+Gerente de Projetos e Scrum Master – Squad Portal B2B
+• Responsável pela liderança do Squad durante o desenvolvimento e entrega do Novo Portal Vivo B2B, uma ferramenta estratégica de comunicação e biblioteca de conteúdo para a força de vendas, com o CRM Salesforce como tecnologia principal.
+• Projeto reconhecido como case de sucesso pela diretoria e Vice-Presidência de Negócios, com destaque no evento All Hands.
+• Superação de desafios relacionados ao uso de tecnologias inovadoras e com baixo conhecimento interno, liderando a aquisição de conhecimento técnico necessário para a entrega bem-sucedida dentro do curto prazo estabelecido pelo Product Owner.
+• A entrega do portal garantiu uma experiência comercial unificada e alinhada às necessidades da área, com implantação do MVP 1 em 28/08/2023.
+• Experiência no uso da ferramenta Jira e MS project para gestão de backlog, acompanhamento de sprints e report de progresso aos stakeholders.
+• Implementação de práticas ágeis no dia a dia do squad, promovendo eficiência, colaboração e adaptação às mudanças de requisitos.
+Projetos no Segmento MVNO (Mobile Virtual Network Operator)
+• Gestão em projetos estratégicos no segmento MVNO. MVNO é uma prestadora de telefonia semelhante às operadoras tradicionais, que oferece serviços de telefonia móvel, como chamadas, SMS e dados, mas sem possuir uma infraestrutura de rede própria.
+• O CRM Amdocs é utilizado como soluçao para atender à força de vendas e funcionalidades críticas, como ativação e cadastro de linhas, troca de SIM cards e suporte ao atendimento no projeto.
+• Projeto envolve time de integraçao Redes de Infraestrutura, Redes TI, OAM, Gsim e demais áreas técnicas para garantir o desenvolvimento da soluçao proposta pelo time técnico do projeto. 
+• Supervisão de pedidos de SIMcards para testes em ambientes de pré-produção.
+• Gerenciamento de projetos de alta complexidade e custo elevado, com foco rigoroso em controle orçamentário, alinhando todas as entregas aos valores aprovados por governança, diretoria e áreas envolvidas.
+• Garantia de que o ciclo de vida completo do projeto, desde a iniciação até o encerramento, seja executado dentro dos requisitos acordados e prazos estabelecidos, mitigando desvios financeiros e técnicos.
+• Experiência no uso da ferramenta Jira e MS project para gestão de backlog, acompanhamento de sprints e report de progresso aos stakeholders.
+• Implementação de práticas ágeis no dia a dia do Squad, promovendo eficiência, colaboração e adaptação às mudanças de requisitos.
